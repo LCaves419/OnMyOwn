@@ -1,1 +1,3 @@
 # OnMyOwn
+
+This project originated from a tutorial on Plural sight in effort to improve my front end development skills. The original project is a static website for a fake restaurant named The Blue Leopard Pub. I have added a personal background picture and am currently determining what the contents of my website will be. This will be an ongoing project throughout my fall semester while attending Modern Database Management and Software Engineering courses. 
